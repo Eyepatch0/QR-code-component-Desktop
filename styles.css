@@ -1,0 +1,43 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: hsl(212, 45%, 89%);
+  width: 1440px;
+  margin: 0;
+  padding: 0;
+  /*text-align: center;*/
+}
+.main {
+  background-color: hsl(0, 0%, 100%);
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 15px;
+  display: inline-block;
+  width: 380px;
+  position: relative;
+  top: 10vh;
+  left: 40vw;
+  right: 40vw;
+  bottom: 10vh;
+}
+h1 {
+  font-family: "Outfit", sans-serif;
+  color: hsl(218, 44%, 22%);
+  text-align: center;
+}
+p {
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  text-align: center;
+}
+img {
+  border-radius: 15px;
+  width: 98%;
+}
+.attribution {
+  position: absolute;
+  top: 2vh;
+}
