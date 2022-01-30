@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://eyepatch0.github.io/QR-code-component-Desktop/)
-- Live Site URL: [Add live site URL here](https://eyepatch0.github.io/QR-code-component-Desktop/)
+- Solution URL: [Click here](https://eyepatch0.github.io/QR-code-component-Desktop/)
+- Live Site URL: [Click here](https://eyepatch0.github.io/QR-code-component-Desktop/)
 
 ## My process
 
